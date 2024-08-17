@@ -1,0 +1,15 @@
+17.08.24 21:33:44.470	================================================================================
+17.08.24 21:33:44.477	Trace Log for TestBlazor.Win is started
+17.08.24 21:33:44.478	================================================================================
+17.08.24 21:33:44.480	System Environment
+	OS Version: Microsoft Windows NT 10.0.22631.0
+	CLR Version: 8.0.7
+	eXpressApp Version: 24.1.5.0
+	eXpressApp File Version: 24.1.5.0
+
+Application config
+	Modules=
+	NewVersionServer=
+	EnableDiagnosticActions=False
+	eXpressAppFrameworkTraceLevel=3
+

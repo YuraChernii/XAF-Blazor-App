@@ -1,0 +1,8 @@
+D:\TestBlazor\TestBlazor.Blazor.Server\obj\Debug\net8.0\XAF Blazor App.Blazor.Server.csproj.AssemblyReference.cache
+D:\TestBlazor\TestBlazor.Blazor.Server\obj\Debug\net8.0\XAF Blazor App.Blazor.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestBlazor\TestBlazor.Blazor.Server\obj\Debug\net8.0\XAF Blazor App.Blazor.Server.AssemblyInfoInputs.cache
+D:\TestBlazor\TestBlazor.Blazor.Server\obj\Debug\net8.0\XAF Blazor App.Blazor.Server.AssemblyInfo.cs
+D:\TestBlazor\TestBlazor.Blazor.Server\obj\Debug\net8.0\XAF Blazor App.Blazor.Server.csproj.CoreCompileInputs.cache
+D:\TestBlazor\TestBlazor.Blazor.Server\obj\Debug\net8.0\XAF Blazor App.Blazor.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\TestBlazor\TestBlazor.Blazor.Server\obj\Debug\net8.0\XAF Blazor App.Blazor.Server.RazorAssemblyInfo.cache
+D:\TestBlazor\TestBlazor.Blazor.Server\obj\Debug\net8.0\XAF Blazor App.Blazor.Server.RazorAssemblyInfo.cs

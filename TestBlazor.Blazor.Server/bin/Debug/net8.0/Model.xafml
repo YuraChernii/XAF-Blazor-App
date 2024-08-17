@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application PreferredLanguage="uk">
+  <BOModel>
+    <Class Name="XAF_Blazor_App.Module.BusinessObjects.CarDriver">
+      <OwnMembers>
+        <Member Name="Car" LookupEditorMode="Auto" PropertyEditorType="DevExpress.ExpressApp.Blazor.Editors.LookupPropertyEditor" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <NavigationItems NavigationStyle="Accordion">
+    <Items>
+      <Item Id="Project" Caption="Project" Index="0" IsNewNode="True">
+        <Items IsNewNode="True">
+          <Item Id="Car_ListView" ViewId="Car_ListView" ObjectKey="" IsNewNode="True" />
+          <Item Id="CarDriver_ListView" ViewId="CarDriver_ListView" ObjectKey="" IsNewNode="True" />
+          <Item Id="Driver_ListView" ViewId="Driver_ListView" ObjectKey="" IsNewNode="True" />
+        </Items>
+      </Item>
+      <Item Id="Default" Index="1">
+        <Items>
+          <Item Id="Car_ListView" Removed="True" />
+          <Item Id="CarDriver_ListView" Removed="True" />
+          <Item Id="Driver_ListView" Removed="True" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
+  <Options UIType="TabbedMDI" RestoreTabbedMdiLayout="False" ShowTabImage="True" />
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="24.1.5.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DetailView Id="CarDriver_DetailView">
+      <Items>
+        <PropertyEditor Id="Car" DataSourcePropertyIsNullMode="SelectNothing" PropertyName="Car" LookupProperty="Brand" />
+      </Items>
+    </DetailView>
+    <ListView Id="CarDriver_ListView" Criteria="[EndDate] &gt;= Today()">
+      <Columns>
+        <ColumnInfo Id="Car" LookupProperty="Brand" />
+      </Columns>
+    </ListView>
+  </Views>
+</Application>

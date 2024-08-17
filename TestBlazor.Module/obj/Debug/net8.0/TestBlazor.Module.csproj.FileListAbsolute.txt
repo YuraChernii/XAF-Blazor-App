@@ -1,0 +1,15 @@
+D:\TestBlazor\TestBlazor.Module\bin\Debug\net8.0\TestBlazor.Module.deps.json
+D:\TestBlazor\TestBlazor.Module\bin\Debug\net8.0\TestBlazor.Module.dll
+D:\TestBlazor\TestBlazor.Module\bin\Debug\net8.0\TestBlazor.Module.pdb
+D:\TestBlazor\TestBlazor.Module\obj\Debug\net8.0\TestBlazor.Module.csproj.AssemblyReference.cache
+D:\TestBlazor\TestBlazor.Module\obj\Debug\net8.0\TestBlazor.Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestBlazor\TestBlazor.Module\obj\Debug\net8.0\TestBlazor.Module.AssemblyInfoInputs.cache
+D:\TestBlazor\TestBlazor.Module\obj\Debug\net8.0\TestBlazor.Module.AssemblyInfo.cs
+D:\TestBlazor\TestBlazor.Module\obj\Debug\net8.0\TestBlazor.Module.csproj.CoreCompileInputs.cache
+D:\TestBlazor\TestBlazor.Module\obj\Debug\net8.0\TestBlazor.Module.dll
+D:\TestBlazor\TestBlazor.Module\obj\Debug\net8.0\refint\TestBlazor.Module.dll
+D:\TestBlazor\TestBlazor.Module\obj\Debug\net8.0\TestBlazor.Module.pdb
+D:\TestBlazor\TestBlazor.Module\obj\Debug\net8.0\ref\TestBlazor.Module.dll
+D:\TestBlazor\TestBlazor.Module\bin\Debug\net8.0\uk\TestBlazor.Module.resources.dll
+D:\TestBlazor\TestBlazor.Module\obj\Debug\net8.0\uk\TestBlazor.Module.resources.dll
+D:\TestBlazor\TestBlazor.Module\obj\Debug\net8.0\TestBlazor.Module.sourcelink.json

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <BOModel>
+    <Class Name="XAF_Blazor_App.Module.BusinessObjects.Car">
+      <OwnMembers>
+        <Member Name="Brand" Caption="Марка" />
+        <Member Name="Fuel" Caption="Паливо" />
+        <Member Name="Model" Caption="Модель" />
+        <Member Name="Year" Caption="Рік" />
+      </OwnMembers>
+    </Class>
+    <Class Name="XAF_Blazor_App.Module.BusinessObjects.CarDriver">
+      <OwnMembers>
+        <Member Name="Car" Caption="Car" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <Localization>
+    <LocalizationGroup Name="Enums">
+      <LocalizationGroup Name="XAF_Blazor_App.Module.BusinessObjects.Car+FuelType">
+        <LocalizationItem Name="Diesel" Value="Дизель" />
+        <LocalizationItem Name="Electro" Value="Електро" />
+        <LocalizationItem Name="Hybrid" Value="Гібрид" />
+        <LocalizationItem Name="Petrol" Value="Бензин" />
+      </LocalizationGroup>
+    </LocalizationGroup>
+  </Localization>
+  <Views>
+    <DetailView Id="CarDriver_DetailView">
+      <Items>
+        <PropertyEditor Id="Car" Caption="Car" />
+      </Items>
+    </DetailView>
+  </Views>
+</Application>
